@@ -1,0 +1,32 @@
+#nav{
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+
+}
+
+#nav a{
+  color: black;
+}
+
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+  color: black;
+}
+
+#img{
+text-align: center;
+
+}
+
+body {
+  background-color: rgba(93, 96, 88, 0.4);
+}
+
+
+img{
+  border-radius: 10px;
+}
